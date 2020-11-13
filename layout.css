@@ -1,0 +1,114 @@
+body {
+    background-color: lightslategrey;
+}
+
+
+#container  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+#container header nav {
+    padding-top: 157px;
+}
+
+/* Cover positions and anchor pseudo-classes for this section */
+
+#container header nav ul {
+    padding-left: 0;
+    width: 350px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#container header nav ul li {
+    display: inline-block;
+    /* font-size: 2em; */
+    background-color: lightgreen;
+    border-radius: 5px;
+    
+}
+
+#container header nav ul li a {
+    font-family: Arial;
+    line-height: 32px;
+    display: inline-block;
+    height: 32px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:white;
+    text-decoration: none;
+}
+
+header {
+    height: 200px;
+    background-color: lightslategrey;
+}
+
+
+
+
+main {
+    background-color: lightgray;
+    padding: 20px;
+    vertical-align: middle;
+}
+
+th {
+    text-align: left;
+  }
+
+  h1 {
+    color: brown;
+    text-align: center;
+}
+
+h3 {
+    color: brown;
+    text-align: center;
+}
+
+
+
+#home p, #home h1 {
+    color: brown;
+    text-align: center;
+}
+}
+
+#about p {
+    color: fuchsia;
+}
+
+#about h1 {
+    color: fuchsia;
+}
+
+#about h2 {
+    color: fuchsia;
+}
+
+footer {
+    height: 50px;
+    background-color: grey;
+}
+
+footer p {
+    text-align: center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+#sidebar {
+    width: 150px;
+    height: 1000px;
+    background-color: skyblue;
+    display: inline-block;
+}
+
+
+
